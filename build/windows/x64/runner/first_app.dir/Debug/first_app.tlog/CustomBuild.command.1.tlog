@@ -1,0 +1,10 @@
+^D:\DOWNLOADS FROM CHROME 2\FLUTTER KIT\FLUTTER_PROJECTS\FIRST_APP\WINDOWS\RUNNER\CMAKELISTS.TXT
+setlocal
+"Z:\Visual Studio 2022 Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/windows" "-BD:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64" --check-stamp-file "D:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64/runner/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

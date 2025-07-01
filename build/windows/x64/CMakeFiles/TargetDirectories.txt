@@ -1,0 +1,10 @@
+D:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64/CMakeFiles/INSTALL.dir
+D:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+D:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+D:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+D:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+D:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64/runner/CMakeFiles/first_app.dir
+D:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+D:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir

@@ -1,0 +1,28 @@
+^D:\DOWNLOADS FROM CHROME 2\FLUTTER KIT\FLUTTER_PROJECTS\FIRST_APP\BUILD\WINDOWS\X64\CMAKEFILES\D457E735C70E9A2C05A7CC4F5F2E3CA7\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"Z:\Visual Studio 2022 Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter "PROJECT_DIR=D:\downloads from chrome 2\FLUTTER KIT\Flutter_Projects\first_app" FLUTTER_ROOT=C:\src\flutter "FLUTTER_EPHEMERAL_DIR=D:\downloads from chrome 2\FLUTTER KIT\Flutter_Projects\first_app\windows\flutter\ephemeral" "PROJECT_DIR=D:\downloads from chrome 2\FLUTTER KIT\Flutter_Projects\first_app" "FLUTTER_TARGET=D:\downloads from chrome 2\FLUTTER KIT\Flutter_Projects\first_app\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9lZGQ4NTQ2MTE2NDU3YmRmMWM1YmRmYjEzZWNiOTQ2M2QyYmI1ZWQ0Lw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=D:\downloads from chrome 2\FLUTTER KIT\Flutter_Projects\first_app\.dart_tool\package_config.json" C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOWNLOADS FROM CHROME 2\FLUTTER KIT\FLUTTER_PROJECTS\FIRST_APP\BUILD\WINDOWS\X64\CMAKEFILES\15A5471AAF8399EC660E6048ECBFE1C5\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\DOWNLOADS FROM CHROME 2\FLUTTER KIT\FLUTTER_PROJECTS\FIRST_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"Z:\Visual Studio 2022 Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SD:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/windows" "-BD:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64" --check-stamp-file "D:/downloads from chrome 2/FLUTTER KIT/Flutter_Projects/first_app/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

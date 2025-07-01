@@ -1,0 +1,1 @@
+ D:\\downloads_from_chrome_2\\FLUTTER\ KIT\\Flutter_Projects\\first_app\\.dart_tool\\flutter_build\\c355bc40217b18faf2e46a21f95e52c4\\native_assets.yaml: 
